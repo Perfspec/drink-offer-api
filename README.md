@@ -1,0 +1,2 @@
+# Barfinder
+Enter where you are on the search bar then for this demo version Chichester residents will be told where the closest pub is selling a certain drink. Using data from "https://www.getthedata.com/open-pubs/chichester" which is a subset of the Open Pubs dataset including only pubs falling within the Chichester local authority.  Includes pub name, address, and position in eastings and northings and latitude and longitude as open data. Also uses dummy drink data. Includes drink name, brewery name.
